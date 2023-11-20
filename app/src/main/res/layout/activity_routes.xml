@@ -50,6 +50,7 @@
                 android:id="@+id/cartButton"
                 android:layout_width="45dp"
                 android:layout_height="45dp"
+                android:src="@drawable/cart_icon"
                 android:backgroundTint="@color/Secondary"
                 />
 
@@ -74,6 +75,7 @@
                 android:id="@+id/ordersButton"
                 android:layout_width="45dp"
                 android:layout_height="45dp"
+                android:src="@drawable/order_history_icon"
                 android:backgroundTint="@color/Secondary"
                 />
 
