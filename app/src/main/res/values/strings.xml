@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ASU Carpool</string>
+    <string name="email_hint">email@eng.asu.edu.eg</string>
+    <string name="password_hint">Password</string>
+    <string name="Login_button">Login</string>
+    <string name="Login_page_Warning">NOTE! You must login with your ASU account</string>
+    <string name="Routes_page_title">Available Trips</string>
+    <string name="Cart">Cart</string>
+    <string name="Orders">Orders</string>
+    <string name="Pay">Pay</string>
+    <string name="Order_History">Orders History</string>
+    <string name="noOrders">No order Histroy. Start ordering now!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Here would be a list of all available routes and trips!</string>
+
+    <!-- Checkout activity -->
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="checkout_item_description">Description</string>
+
+</resources>
